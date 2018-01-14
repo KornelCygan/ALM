@@ -1,0 +1,35 @@
+.search {
+  min-height: 250px;
+  padding: 100px; }
+
+.FourOhFour {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #121212;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  .FourOhFour .bg {
+    background-image: url("http://i.giphy.com/l117HrgEinjIA.gif");
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    mix-blend-mode: overlay; }
+  .FourOhFour .code {
+    font-size: 144px;
+    height: 100vh;
+    color: white;
+    width: 100%;
+    display: flex;
+    backgorund-position: center;
+    align-items: center;
+    background-size: cover;
+    justify-content: center; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,486 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "camera",
+      "producer": "Canon",
+      "model": "EOS 450D",
+      "price": 143.95,
+      "description": "cool camera"
+    },
+    {
+      "id": 2,
+      "category": "camera",
+      "producer": "Sony",
+      "model": "A 6000",
+      "price": 2199,
+      "description": "cool camera"
+    },
+    {
+      "id": 3,
+      "category": "camera",
+      "producer": "FujiFilm",
+      "model": "Instax mini 9",
+      "price": 299,
+      "description": "cool camera"
+    },
+    {
+      "id": 4,
+      "category": "camera",
+      "producer": "Nikon",
+      "model": "D7200",
+      "price": 3600,
+      "description": "cool camera"
+    },
+    {
+      "id": 5,
+      "category": "camera",
+      "producer": "Nikon",
+      "model": "COOLPIX P900",
+      "price": 2099,
+      "description": "cool camera"
+    },
+    {
+      "id": 6,
+      "category": "camera",
+      "producer": "Canon",
+      "model": "EOS 6D",
+      "price": 4869,
+      "description": "cool camera"
+    },
+    {
+      "id": 7,
+      "category": "camera",
+      "producer": "Panasonic",
+      "model": "Lumix DC-FZ82",
+      "price": 1249,
+      "description": "cool camera"
+    },
+    {
+      "id": 8,
+      "category": "camera",
+      "producer": "Canon",
+      "model": "EOS 5D Mark",
+      "price": 13175,
+      "description": "cool camera"
+    },
+    {
+      "id": 9,
+      "category": "camera",
+      "producer": "Nikon",
+      "model": "D5300",
+      "price": 2819,
+      "description": "cool camera"
+    },
+    {
+      "id": 10,
+      "category": "camera",
+      "producer": "Nikon",
+      "model": "D7500",
+      "price": 4699,
+      "description": "cool camera"
+    },
+    {
+      "id": 11,
+      "category": "camera",
+      "producer": "Canon",
+      "model": "EOS 6D Mark",
+      "price": 7398,
+      "description": "cool camera"
+    },
+    {
+      "id": 12,
+      "category": "camera",
+      "producer": "Panasonic",
+      "model": "Lumix",
+      "price": 2439,
+      "description": "cool camera"
+    },
+    {
+      "id": 13,
+      "category": "camera",
+      "producer": "Sony",
+      "model": "CYBER-SHOT DSC",
+      "price": 1487.13,
+      "description": "cool camera"
+    },
+    {
+      "id": 14,
+      "category": "camera",
+      "producer": "Sony",
+      "model": "Alpha 45",
+      "price": 1456,
+      "description": "cool camera"
+    },
+    {
+      "id": 15,
+      "category": "camera",
+      "producer": "Canon",
+      "model": "EOS D",
+      "price": 1290,
+      "description": "cool camera"
+    },
+    {
+      "id": 16,
+      "category": "camera",
+      "producer": "Canon",
+      "model": "EOS DD",
+      "price": 2367,
+      "description": "cool camera"
+    },
+    {
+      "id": 17,
+      "category": "camera",
+      "producer": "Sony",
+      "model": "Alpha 7",
+      "price": 5199,
+      "description": "cool camera"
+    },
+    {
+      "id": 18,
+      "category": "camera",
+      "producer": "Canon",
+      "model": "EOS 80D",
+      "price": 3989,
+      "description": "cool camera"
+    },
+    {
+      "id": 19,
+      "category": "camera",
+      "producer": "Canon",
+      "model": "EOS 700D",
+      "price": 1999,
+      "description": "cool camera"
+    },
+    {
+      "id": 20,
+      "category": "camera",
+      "producer": "Canon",
+      "model": "EOS 450D",
+      "price": 143.95,
+      "description": "cool camera"
+    },
+    {
+      "id": 21,
+      "category": "tv",
+      "producer": "Samsung",
+      "model": "Se55",
+      "price": 2596,
+      "description": "cool tv"
+    },
+    {
+      "id": 22,
+      "category": "tv",
+      "producer": "Samsung",
+      "model": "UE55Mu700",
+      "price": 4098,
+      "description": "cool tv"
+    },
+    {
+      "id": 23,
+      "category": "tv",
+      "producer": "LG",
+      "model": "OLED 55B7V",
+      "price": 6800,
+      "description": "cool tv"
+    },
+    {
+      "id": 24,
+      "category": "tv",
+      "producer": "Samsung",
+      "model": "UE55MU85",
+      "price": 2424,
+      "description": "cool tv"
+    },
+    {
+      "id": 25,
+      "category": "tv",
+      "producer": "Philips",
+      "model": "55PUS6362",
+      "price": 2160,
+      "description": "cool tv"
+    },
+    {
+      "id": 26,
+      "category": "tv",
+      "producer": "Sony",
+      "model": "Bravia",
+      "price": 5079,
+      "description": "cool tv"
+    },
+    {
+      "id": 27,
+      "category": "tv",
+      "producer": "Samsung ",
+      "model": "UE60465",
+      "price": 2995,
+      "description": "cool tv"
+    },
+    {
+      "id": 28,
+      "category": "tv",
+      "producer": "LG",
+      "model": "OLED Atmos 345",
+      "price": 7075,
+      "description": "cool tv"
+    },
+    {
+      "id": 29,
+      "category": "tv",
+      "producer": "LG",
+      "model": "EOU 55",
+      "price": 2999,
+      "description": "cool tv"
+    },
+    {
+      "id": 30,
+      "category": "tv",
+      "producer": "Samsung",
+      "model": "UE551321",
+      "price": 3589,
+      "description": "cool tv"
+    },
+    {
+      "id": 31,
+      "category": "tv",
+      "producer": "Sony",
+      "model": "BRAVIA 65656",
+      "price": 8569,
+      "description": "cool tv"
+    },
+    {
+      "id": 32,
+      "category": "tv",
+      "producer": "Samung",
+      "model": "UE32 6565",
+      "price": 1256,
+      "description": "cool tv"
+    },
+    {
+      "id": 33,
+      "category": "tv",
+      "producer": "Panasonic",
+      "model": "EOS 456465",
+      "price": 2318,
+      "description": "cool tv"
+    },
+    {
+      "id": 34,
+      "category": "tv",
+      "producer": "LG",
+      "model": "EO545",
+      "price": 7535,
+      "description": "cool tv"
+    },
+    {
+      "id": 35,
+      "category": "tv",
+      "producer": "Unitra",
+      "model": "PRL1987",
+      "price": 5656,
+      "description": "oldschool tv"
+    },
+    {
+      "id": 36,
+      "category": "tv",
+      "producer": "Samung",
+      "model": "EU5554654",
+      "price": 5896,
+      "description": "cool tv"
+    },
+    {
+      "id": 37,
+      "category": "tv",
+      "producer": "Sony",
+      "model": "Bravia 65456",
+      "price": 2568,
+      "description": "cool tv"
+    },
+    {
+      "id": 38,
+      "category": "tv",
+      "producer": "Samsung",
+      "model": "EU555646",
+      "price": 8666,
+      "description": "cool tv"
+    },
+    {
+      "id": 39,
+      "category": "tv",
+      "producer": "Panasonic",
+      "model": "4564544",
+      "price": 2566,
+      "description": "cool tv"
+    },
+    {
+      "id": 40,
+      "category": "tv",
+      "producer": "Panasonic",
+      "model": "Viera 65666",
+      "price": 5566,
+      "description": "cool tv"
+    },
+    {
+      "id": 41,
+      "category": "laptop",
+      "producer": "Apple",
+      "model": "MacBook Air",
+      "price": 3599,
+      "description": "cool mac"
+    },
+    {
+      "id": 42,
+      "category": "laptop",
+      "producer": "Lenovo",
+      "model": "Ideapad 320s",
+      "price": 2895,
+      "description": "cool laptop"
+    },
+    {
+      "id": 43,
+      "category": "laptop",
+      "producer": "HP",
+      "model": "1tt46e",
+      "price": 1189,
+      "description": "cool laptop"
+    },
+    {
+      "id": 44,
+      "category": "laptop",
+      "producer": "Hp",
+      "model": "Pavilion 5646",
+      "price": 2795,
+      "description": "cool laptop"
+    },
+    {
+      "id": 45,
+      "category": "laptop",
+      "producer": "Asus",
+      "model": "R55464",
+      "price": 1799,
+      "description": "cool lalptoo"
+    },
+    {
+      "id": 46,
+      "category": "laptop",
+      "producer": "MSI",
+      "model": "GT565",
+      "price": 16444,
+      "description": "cool laptop"
+    },
+    {
+      "id": 47,
+      "category": "laptop",
+      "producer": "Apple",
+      "model": "MacBook Pro",
+      "price": 5499,
+      "description": "cool mac"
+    },
+    {
+      "id": 48,
+      "category": "laptop",
+      "producer": "Lenovo",
+      "model": "Ideapad 654",
+      "price": 1868,
+      "description": "cool laptop"
+    },
+    {
+      "id": 49,
+      "category": "laptop",
+      "producer": "Asus",
+      "model": "R65464",
+      "price": 1999,
+      "description": "cool laptop"
+    },
+    {
+      "id": 50,
+      "category": "laptop",
+      "producer": "MSI",
+      "model": "GV65",
+      "price": 3398,
+      "description": "cool laptop"
+    },
+    {
+      "id": 51,
+      "category": "laptop",
+      "producer": "Lenovo",
+      "model": "Ideapad 5485",
+      "price": 2687,
+      "description": "cool laptop"
+    },
+    {
+      "id": 52,
+      "category": "laptop",
+      "producer": "Acer",
+      "model": "Aspire 5454",
+      "price": 2498,
+      "description": "cool laptop"
+    },
+    {
+      "id": 53,
+      "categ5ory": "laptop",
+      "producer": "Dell",
+      "model": "Inspirion 892",
+      "price": 2599,
+      "description": "cool laptop"
+    },
+    {
+      "id": 54,
+      "category": "laptop",
+      "producer": "Asus",
+      "model": "R3453",
+      "price": 1099,
+      "description": "cool laptop"
+    },
+    {
+      "id": 55,
+      "category": "laptop",
+      "producer": "Lenovo",
+      "model": "mixx 8989",
+      "price": 998,
+      "description": "cool laptop"
+    },
+    {
+      "id": 56,
+      "category": "laptop",
+      "producer": "Lenovo",
+      "model": "V310",
+      "price": 2588,
+      "description": "cool laptop"
+    },
+    {
+      "id": 57,
+      "category": "laptop",
+      "producer": "Dell",
+      "model": "Inspirion 15 888",
+      "price": 3385,
+      "description": "cool laptop"
+    },
+    {
+      "id": 58,
+      "category": "laptop",
+      "producer": "Asus",
+      "model": "Tranformer 897",
+      "price": 3566,
+      "description": "cool laptop"
+    },
+    {
+      "id": 59,
+      "category": "laptop",
+      "producer": "Asus",
+      "model": "Rog 5648",
+      "price": 5877,
+      "description": "cool laptop"
+    },
+    {
+      "id": 60,
+      "category": "laptop",
+      "producer": "Acer",
+      "model": "Predator",
+      "price": 4258,
+      "description": "cool laptop"
+    }
+
+  ]
+}
